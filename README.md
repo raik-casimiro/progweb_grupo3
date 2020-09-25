@@ -3,8 +3,12 @@
 ######################################################
 INTEGRANTES
 
-Gabriele 
-Carlos 
+Gabriele
+
+Carlos
+
 Adélia
+
 Murilo
+
 Raik 
